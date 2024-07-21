@@ -18,7 +18,7 @@ npm create vite@latest
 
 npm install eslint
 
-Останнім кроком буде невеличка зміна налаштувань лінтера ESLint. У файлі налаштувань .eslintrc.cjs потрібно відключити одне непотрібне нам правило. Зокрема, додайте до блоку rules властивість react/prop-types із значенням 0.
+Останнім кроком буде невеличка зміна налаштувань літера ESLint. У файлі налаштувань .eslintrc.cjs потрібно відключити одне непотрібне нам правило. Зокрема, додайте до блоку rules властивість react/prop-types із значенням 0.
 
 Ви можете просто взяти наступний код, який містить потрібні налаштування, і замінити ним вміст файлу .eslintrc.cjs.
 
@@ -91,5 +91,4 @@ https://github.com/postcss/autoprefixer
 https://www.npmjs.com/package/clsx
 https://www.npmjs.com/package/modern-normalize?activeTab=readme
 https://react-icons.github.io/react-icons/
-
 https://fson-105.vercel.app/
